@@ -1,4 +1,5 @@
 ### 本仓库主要讲述数据理解、数据可视化、数据预处理、特征选择、模型选择、模型评估及基于sklearn库中各类机器学习算法的使用
+### This warehouse mainly describes data understanding, data visualization, data preprocessing, feature selection, model selection, model evaluation and the use of various machine learning algorithms based on sklearn library (univariate feature selection, recursive feature elimination, principal component analysis, decision tree , random forest, GBDT family (boosting algorithm)).
 
 1 First simply ml project
 
